@@ -12,8 +12,5 @@
 python a.py
 g++ c.cpp
 ```
-<<<<<<< HEAD
 pc
-=======
 github
->>>>>>> 16f6e1709554f7e47a325b87b536cb29f6547f34
